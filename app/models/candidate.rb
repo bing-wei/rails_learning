@@ -1,2 +1,3 @@
 class Candidate < ApplicationRecord
-end
+    has_many :vote_logs, dependent: :destroy
+  end
