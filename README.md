@@ -1,3 +1,8 @@
+# Rail 學習
+## 功能
+* 新增、編輯及刪除候選人
+* 新增投票功能
+
 ## 環境
 * Ruby version : 3.2.2
 * Rails version : 7.1.2
